@@ -18,10 +18,11 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Ticket Lifecycle Stages</h2>
 
-- Intake
+- Ticket Creation
 - Assignment and Communication
 - Working the Issue
-- Resolution
+- Resolving Tickets
+- Follow-up and Analysis
 
 <p>End Users osTicket URL: http://localhost/osTicket/</p>
 
