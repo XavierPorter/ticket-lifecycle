@@ -25,28 +25,76 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <p>End Users osTicket URL: http://localhost/osTicket/</p>
 
-<h2>Lifecycle Stages</h2>
+<h2>1. Ticket Creation</h2>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This stage involves the customer submitting a request or raising an issue, which generates a ticket in the help desk system.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+<h2>2. Ticket Triage</h2>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In this stage, the ticket is reviewed by the help desk team to determine the severity of the issue(SLA's), the customer's priority level, and the appropriate next steps.
+</p>
+<br />
+
+
+<h2>3. Ticket Assignment</h2>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+After triage, the ticket is assigned to a specific support agent or team member who is responsible for resolving the issue.
+</p>
+<br />
+
+
+<h2>4. Ticket Resolution</h2>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+The assigned support agent works on the issue and resolves it according to the customer's expectations and the organization's service level agreements (SLAs).
+</p>
+<br />
+
+
+<h2>5. Ticket Closure</h2>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Once the issue is resolved, the support agent updates the ticket with the resolution details and then closes the ticket.
+</p>
+<br />
+
+
+<h2>6. Ticket Follow-up</h2>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In some organizations, the support team may contact the customer after the ticket closure to ensure that they are satisfied with the resolution.
+<br />
+
+
+<h2>7. Ticket Analysis</h2>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Finally, the help desk team may analyze the ticket data to identify trends, areas for improvement, and opportunities to streamline processes.
 </p>
 <br />
